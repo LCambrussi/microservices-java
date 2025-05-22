@@ -39,9 +39,6 @@ public class CurrencyEntity {
 	public String getSource() {
 		return source;
 	}
-	public void setSourge(String sourge, String source) {
-		this.source = source;
-	}
 	public String getTarget() {
 		return target;
 	}
@@ -65,6 +62,9 @@ public class CurrencyEntity {
 	}
 	public void setEnviroment(String enviroment) {
 		this.enviroment = enviroment;
+	}
+	public void setSource(String source) {
+		this.source = source;
 	}
 	
 	
