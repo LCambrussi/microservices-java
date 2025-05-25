@@ -1,2 +1,7 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
+=======
+org.eclipse.debug.ui.ExpressionView.org.eclipse.jdt.debug.ui.show_null_entries=true
+org.eclipse.debug.ui.VariableView.org.eclipse.jdt.debug.ui.show_null_entries=true
+>>>>>>> 8f18534061b90ec2f2a825e6f7906d57e9d794fe
 org.eclipse.jdt.debug.ui.prompt_unable_to_install_breakpoint=false

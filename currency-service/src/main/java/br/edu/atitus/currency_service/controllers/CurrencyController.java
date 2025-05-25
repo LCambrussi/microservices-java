@@ -2,6 +2,9 @@ package br.edu.atitus.currency_service.controllers;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cache.CacheManager;
+import java.util.Currency;
+
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -26,6 +29,13 @@ public class CurrencyController {
 		this.repository = repository;
 		this.currencyBCClient = currencyBCClient;
 		this.cacheManager = cacheManager;
+	}
+		
+	public CurrencyController(CurrencyRepository repository, CurrencyBCClient currencyBCClient) {
+		super();
+		this.repository = repository;
+		this.currencyBCClient = currencyBCClient;
+		this.cacheManager = null;
 	}
 	
 	@Value("${server.port}")
@@ -88,5 +98,4 @@ public class CurrencyController {
 	public CurrencyRepository getRepository() {
 		return repository;
 	}
-	
 }

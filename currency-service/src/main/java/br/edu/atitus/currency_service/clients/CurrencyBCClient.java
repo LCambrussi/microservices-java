@@ -12,5 +12,5 @@ public interface CurrencyBCClient {
 
 	@GetMapping("/CotacaoMoedaDia(moeda=@moeda,dataCotacao=@dataCotacao)?@moeda='{moeda}'&@dataCotacao='05-22-2025'&$format=json")
 	CurrencyBCResponse getCurrency(@PathVariable String moeda);
-	
+
 }
