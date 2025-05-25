@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.edu.atitus.currency_service.clients.CurrencyBCClient"/>
+    <fullyQualifiedTypeName name="br.edu.atitus.currency_service.clients.CurrencyBCResponse"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="br.edu.atitus.currency_service.clients.CurrencyBCFallback"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="org.springframework.cache.annotation.EnableCaching"/>
+    <fullyQualifiedTypeName name="org.springframework.cache.CacheManager"/>
+    <fullyQualifiedTypeName name="br.edu.atitus.currency_service.entities.CurrencyEntity"/>
+</qualifiedTypeNameHistroy>
