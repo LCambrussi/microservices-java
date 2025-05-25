@@ -24,6 +24,7 @@ public class CurrencyController {
 	private final CurrencyBCClient currencyBCClient;
 	private final CacheManager cacheManager;
 
+	@Autowired
 	public CurrencyController(CurrencyRepository repository, CurrencyBCClient currencyBCClient, CacheManager cacheManager) {
 		super();
 		this.repository = repository;
