@@ -1,5 +1,4 @@
 [ {
-<<<<<<< HEAD
   "version" : "9.0.0-20250524002131+0000",
   "buildTime" : "20250524002131+0000",
   "current" : false,
@@ -30,10 +29,8 @@
 }, {
   "version" : "8.14.1-20250522010941+0000",
   "buildTime" : "20250522010941+0000",
-=======
   "version" : "8.14.1-20250520202842+0000",
   "buildTime" : "20250520202842+0000",
->>>>>>> 8f18534061b90ec2f2a825e6f7906d57e9d794fe
   "current" : false,
   "snapshot" : true,
   "nightly" : false,
@@ -42,11 +39,9 @@
   "rcFor" : "",
   "milestoneFor" : "",
   "broken" : false,
-<<<<<<< HEAD
   "downloadUrl" : "https://services.gradle.org/distributions-snapshots/gradle-8.14.1-20250522010941+0000-bin.zip",
   "checksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-8.14.1-20250522010941+0000-bin.zip.sha256",
   "wrapperChecksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-8.14.1-20250522010941+0000-wrapper.jar.sha256"
-=======
   "downloadUrl" : "https://services.gradle.org/distributions-snapshots/gradle-8.14.1-20250520202842+0000-bin.zip",
   "checksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-8.14.1-20250520202842+0000-bin.zip.sha256",
   "wrapperChecksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-8.14.1-20250520202842+0000-wrapper.jar.sha256"
@@ -64,7 +59,6 @@
   "downloadUrl" : "https://services.gradle.org/distributions-snapshots/gradle-9.0.0-20250520002743+0000-bin.zip",
   "checksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-9.0.0-20250520002743+0000-bin.zip.sha256",
   "wrapperChecksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-9.0.0-20250520002743+0000-wrapper.jar.sha256"
->>>>>>> 8f18534061b90ec2f2a825e6f7906d57e9d794fe
 }, {
   "version" : "9.0.0-milestone-8",
   "buildTime" : "20250516073511+0000",
@@ -138,11 +132,8 @@
 }, {
   "version" : "8.14",
   "buildTime" : "20250425092908+0000",
-<<<<<<< HEAD
   "current" : false,
-=======
   "current" : true,
->>>>>>> 8f18534061b90ec2f2a825e6f7906d57e9d794fe
   "snapshot" : false,
   "nightly" : false,
   "releaseNightly" : false,
