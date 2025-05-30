@@ -1,18 +1,13 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=8f18534061b90ec2f2a825e6f7906d57e9d794fe
 eclipse.preferences.version=1
-<<<<<<< HEAD
 org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jdk-21/lib/jrt-fs.jar
 org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Program Files/Java/jdk-21/lib/src.zip
 org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
-org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/leonardo/.m2/repository
-org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
-org.eclipse.jdt.core.compiler.codegen.targetPlatform=21
-org.eclipse.jdt.core.compiler.compliance=21
-org.eclipse.jdt.core.compiler.release=enabled
-org.eclipse.jdt.core.compiler.source=21
-=======
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/1136187/.m2/repository
 org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=22
 org.eclipse.jdt.core.compiler.compliance=22
 org.eclipse.jdt.core.compiler.release=enabled
 org.eclipse.jdt.core.compiler.source=22
->>>>>>> 8f18534061b90ec2f2a825e6f7906d57e9d794fe

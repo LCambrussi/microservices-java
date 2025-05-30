@@ -1,14 +1,15 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=8f18534061b90ec2f2a825e6f7906d57e9d794fe
 eclipse.preferences.version=1
-<<<<<<< HEAD
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cache=1
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-resilience4j=1
-=======
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.actuator=4
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cache=2
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-config-client=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-config-server=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-eureka=4
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-eureka-server=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-feign=3
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-resilience4j=2
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-jpa=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.devtools=3
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.flyway=1
@@ -25,5 +26,4 @@ org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=br.e
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
->>>>>>> 8f18534061b90ec2f2a825e6f7906d57e9d794fe
 org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n

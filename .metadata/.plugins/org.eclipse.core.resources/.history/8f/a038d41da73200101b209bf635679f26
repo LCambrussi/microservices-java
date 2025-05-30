@@ -1,5 +1,0 @@
-package br.edu.atitus.product_service;
-
-public class CurrencyResponse {
-
-}

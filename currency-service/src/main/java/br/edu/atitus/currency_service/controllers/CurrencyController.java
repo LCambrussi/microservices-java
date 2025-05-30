@@ -1,5 +1,6 @@
 package br.edu.atitus.currency_service.controllers;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cache.CacheManager;
 import java.util.Currency;

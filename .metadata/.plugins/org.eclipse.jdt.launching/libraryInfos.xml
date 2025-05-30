@@ -21,6 +21,7 @@
         </endorsedDirs>
     </libraryInfo>
     <libraryInfo home="C:\Program Files\Java\jdk-21" version="21.0.4"/>
+    <libraryInfo home="C:\Softwares 2025\Eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.5.v20241023-1957\jre" version="21.0.5"/>
     <libraryInfo home="C:\Users\leonardo\Desktop\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529\jre" version="21.0.6"/>
     <libraryInfo home="C:\Users\leonardo\Desktop\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529" version="21.0.6">
         <bootpath>

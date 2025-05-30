@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-<<<<<<< HEAD
-	<section name="MavenProjectImportWizardPage">
-		<list key="rootDirectory">
-			<item value="C:\Users\leonardo\Documents\trabalhos facul\trabalho luciano\microservices-java-main\product-service"/>
-			<item value="C:\Users\leonardo\Documents\trabalhos facul\trabalho luciano\microservices-java-main\greating-service"/>
-			<item value="C:\Users\leonardo\Documents\trabalhos facul\trabalho luciano\microservices-java-main\discovery-service"/>
-			<item value="C:\Users\leonardo\Documents\trabalhos facul\trabalho luciano\microservices-java-main\config-service"/>
-			<item value="C:\Users\leonardo\Documents\trabalhos facul\trabalho luciano\microservices-java-main\currency-service"/>
-=======
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
-	<section name="MavenProjectImportWizardPage">
-		<list key="rootDirectory">
-			<item value="C:\Users\1136187\Documents\trabalho luciano\MicroServices_Java\product-service"/>
->>>>>>> 8f18534061b90ec2f2a825e6f7906d57e9d794fe
-		</list>
-		<list key="projectNameTemplate">
-			<item value="[artifactId]"/>
-			<item value="[artifactId]-TRUNK"/>
-			<item value="[artifactId]-[version]"/>
-			<item value="[groupId].[artifactId]"/>
-			<item value="[groupId].[artifactId]-[version]"/>
-			<item value="[name]"/>
-		</list>
-	</section>
-<<<<<<< HEAD
-	<section name="org.eclipse.m2e.core.pom.overview">
-	</section>
-	<section name="org.eclipse.m2e.core.pom.dependencies">
-	</section>
-=======
->>>>>>> 8f18534061b90ec2f2a825e6f7906d57e9d794fe
 </section>
